@@ -1,4 +1,4 @@
-📝 To-Do List App
+<b>📝 To-Do List App</b>
 
 A simple and responsive To-Do List Application built with React.js and Bootstrap.
 This app allows users to add and delete tasks dynamically, providing a clean and interactive task management experience.
